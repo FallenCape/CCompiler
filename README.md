@@ -15,5 +15,5 @@ A simple C compiler written in C++. This is a learning project aimed at building
 - [ ] (Optional) Optimizations (constant folding, dead code elimination)
 
 ## 📁 Project Structure
-CCompiler/ ├── include/ # Header files │ ├── Lexer.hpp │ ├── Parser.hpp │ ├── Token.hpp │ └── ... ├── src/ # Source files │ ├── main.cpp │ ├── Lexer.cpp │ ├── Parser.cpp │ └── ... ├── tests/ # Test C programs │ ├── test1.c │ └── ... ├── build/ # Build artifacts ├── CMakeLists.txt # Build configuration └── README.md #
+
 
